@@ -1,0 +1,553 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The general exercise ordered by His Highness the Prince of Orange,  to be punctually observed of all the infantry in service of the States General of the United Provinces being a most worthy compendium, very useful for all persons concerned in that noble exercise of arms.</title>
+            <author>Plunket, Thomas, b. 1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52834</idno>
+            <idno type="STC">Wing N483A</idno>
+            <idno type="STC">ESTC R5224</idno>
+            <idno type="EEBO-CITATION">12985230</idno>
+            <idno type="OCLC">ocm 12985230</idno>
+            <idno type="VID">96185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96185)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The general exercise ordered by His Highness the Prince of Orange,  to be punctually observed of all the infantry in service of the States General of the United Provinces being a most worthy compendium, very useful for all persons concerned in that noble exercise of arms.</title>
+                  <author>Plunket, Thomas, b. 1625.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Marshall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to T. Plunket. Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>United Provinces of the Netherlands. --  Staten Generaal --  Armed Forces --  Drill manuals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96185:1"/>
+            <p>THE GENERAL EXERCISE Ordered by his HIGHNESS the Prince of Orange, To be punctually obſerved of all the <hi>INFANTRY</hi> in Service of the STATES GENERAL OF THE <hi>Vnited Provinces.</hi>
+            </p>
+            <p>BEING A moſt Worthy <hi>COMPENDI<g ref="char:V">Ʋ</g>M,</hi> very uſeful for all Perſons concerned in that Noble EXERCISE of ARMS.</p>
+            <q>
+               <bibl>2 Sam. 22.40.</bibl>
+               <p>For thou hast girded me with ſtrength to Battel; them that roſe up against me, haſt thou ſubdued under me.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Marſhall</hi> at the <hi>Bible</hi> in <hi>New<g ref="char:EOLhyphen"/>gate</hi>-Street, 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96185:2"/>
+            <pb n="3" facs="tcp:96185:2"/>
+            <head>THE GENERAL EXERCISE Ordered by his HIGHNESS the Prince of Orange, To be punctually obſerved of all the Infantry in Service of the <hi>States General</hi> of the United Provinces.</head>
+            <list>
+               <head>General Obſervations.</head>
+               <label>I.</label>
+               <item>IT muſt be underſtood that before the Exerciſe begin, the Offi<g ref="char:EOLhyphen"/>cers at the firſt Advertiſement by tuck of Drum advancing their Pikes, ſhall turn about to the right; and upon the ſecond, march through the Battalion, ranging themſelves in the Rear in the ſame order they were upon the Front; the Sergeants, who were poſted be<g ref="char:EOLhyphen"/>hind the Battalion, ſeparating themſelves to the right and left, ſhall take their Places upon the Flanks till the Exerciſe be done, and the Officers ſhall have taken their former Poſt upon the Front at the fore<g ref="char:EOLhyphen"/>mentioned Advertiſement by tuck of Drum, at which time the ſaid Sergeants ſhall alſo return to the Rear as before.</item>
+               <label>II.</label>
+               <item>The Drummers ſhall ſtay upon the Wings of the Battalion during the Exerciſe, excepting thoſe that are in the Center before the Pikes, who in the time that the Officers march through to the Rear, ſhall range themſelves behind the Major, to be always ready either for giv<g ref="char:EOLhyphen"/>ing Advertiſements, or in caſe the Battalion might be exerciſed by tuck of Drum.</item>
+               <label>III.</label>
+               <item>No man ſhall offer to ſtir or make the leaſt motion till the Word of Command be fully pronounced, and then to perform what ſhall be commanded with a graceful readineſs, and quick motion all at the ſame time.</item>
+               <pb n="4" facs="tcp:96185:3"/>
+               <label>IV.</label>
+               <item>The Souldier having his Musket ſhoulder'd, muſt ſtand ſtraight up on his Limbs, hold up his Head, and look always to the commanding Officer, making no Motion, but ſuch as ſhall be ordered, which muſt be obſerved as a general Rule in all Commands.</item>
+               <label>V.</label>
+               <item>The Souldiers muſt keep their Feet a ſmall pace diſtant from each other, their Heels ſtraight in a line, and their Toes turned outwardly, holding their Muskets with their left hand upon their left Shoulder, the Thumb in the hollow above the Butt, holding the Iron which co<g ref="char:EOLhyphen"/>vers the Drawer cloſe to the Shoulder, that the Muzzel of the Musket behind may ſtand ſomewhat high, turning the Lock a little outward, ſo that the Butt may come to the Buttons, or middle of the Breaſt, and the Muskets over all be the more equally carried.</item>
+               <label>VI.</label>
+               <item>The Match muſt be holden in the left hand, one end betwixt the firſt and ſecond finger, and the other betwixt the two laſt, both the ends a fingers length without the back of the hand, ſo that the reſt thereof may hang betwixt the hand and the Butt of the Musket; and becauſe in exerciſing the Match is to be laid down no more, it muſt never be kindled without expreſs Order,</item>
+               <label>VII.</label>
+               <item>With a ſhoulder'd Musket the left Elbow ought to be turned a little outwards from the Body, but without conſtraint of the Arm, and the right Arm hanging looſe downwards along the Body with the Palm of the hand turned to the Thigh.</item>
+            </list>
+            <div type="part">
+               <pb n="5" facs="tcp:96185:3"/>
+               <list>
+                  <head>The Manual of the Muskets.</head>
+                  <item>1. JOyn your right hand to your Muskets.</item>
+                  <item>2. Poiſe your Muskets.</item>
+                  <item>3. Joyn your left hand to your Mus<g ref="char:EOLhyphen"/>kets.</item>
+                  <item>4. Take your Matches.</item>
+                  <item>5. Blow your Matches.</item>
+                  <item>6. Cock your Matches.</item>
+                  <item>7. Try your Matches.</item>
+                  <item>8. Guard your Pans.</item>
+                  <item>9. Blow your Matches.</item>
+                  <item>10. Open your Pans in preſenting.</item>
+                  <item>11. Give Fire.</item>
+                  <item>12. Recover your Arms.</item>
+                  <item>13. Return your Matches.</item>
+                  <item>14. Blow your Pans.</item>
+                  <item>15. Handle your Primers.</item>
+                  <item>16. Prime.</item>
+                  <item>17. Shut your Pans.</item>
+                  <item>18. Blow off your looſe Corns.</item>
+                  <item>19. Caſt about to charge.</item>
+                  <item>20. Handle your Chargers.</item>
+                  <item>21. Open them with your Teeth.</item>
+                  <item>22. Charge with Powder.</item>
+                  <item>23. Charge with Bullet.</item>
+                  <item>24. Wadd from your Hats.</item>
+                  <item>25. Draw forth your Scowrers.</item>
+                  <item>26. Hold them up.</item>
+                  <item>27. Shorten them to your Breaſts.</item>
+                  <item>28. Put them in the Barrels.</item>
+                  <item>29. Ram down your Shot.</item>
+                  <item>30. Withdraw your Scowrers.</item>
+               </list>
+               <pb n="6" facs="tcp:96185:4"/>
+               <list>
+                  <item>31. Hold them up.</item>
+                  <item>32. Shorten them to your Breaſts.</item>
+                  <item>33. Put them up in their places.</item>
+                  <item>34. Joyn your right hand to your Muskets.</item>
+                  <item>35. Poiſe your Muskets.</item>
+                  <item>36. Shoulder your Muskets.</item>
+                  <item>37. Reſt your Muskets.</item>
+                  <item>38. Order your Muskets.</item>
+                  <item>39. Lay down your Muskets.</item>
+                  <item>40. Take up your Muskets.</item>
+                  <item>41. Reſt your Muskets.</item>
+                  <item>42. Club your Muskets.</item>
+                  <item>43. Reſt your Muskets.</item>
+                  <item>44. Shoulder your Muskets.</item>
+               </list>
+               <list>
+                  <head>Take heed to make ready by three Words of Command.</head>
+                  <item>1. Make ready.</item>
+                  <item>2. Preſent.</item>
+                  <item>3. Give Fire.</item>
+               </list>
+            </div>
+            <div type="part">
+               <list>
+                  <head>Here follows the Manual of a Gre<g ref="char:EOLhyphen"/>nadier, beginning from a ſhoul<g ref="char:EOLhyphen"/>der'd Fire-lock.</head>
+                  <item>1. JOyn your right hand to your Fire-locks.</item>
+                  <item>2. Poiſe your Fire-locks.</item>
+                  <item>3. Joyn your left hand to your Fire-locks.</item>
+                  <item>4. Bend your Fire-locks.</item>
+                  <item>5. Preſent.</item>
+                  <item>6. Give Fire.</item>
+                  <item>7. Recover your Arms.</item>
+                  <item>8. Handle your Slings.</item>
+                  <item>9. Sling your Fire-locks upon your Shoulders.</item>
+                  <item>10. Take your Matches.</item>
+                  <item>11. Take your Grenades.</item>
+                  <item>12. Open the Grenade Fuſe.</item>
+                  <item>13. Guard the Grenade Fuſe with your Thumbs.</item>
+                  <item>14. Blow your Matches.</item>
+                  <item>15. Fire and deliver your Grenades.</item>
+                  <item>16. Return your Matches.</item>
+                  <item>17. Handle your Slings.</item>
+                  <item>18. Poyſe your Fire-locks</item>
+                  <item>19. Caſt about your Fire-locks to left ſide.</item>
+                  <item>20. Draw your Dagggers.</item>
+                  <item>21. Screw your Daggers in the Muzzle of your Fire-locks.</item>
+                  <item>22. Reſt your Daggers.</item>
+                  <item>23. Charge your Daggers the butt to the right knee.</item>
+                  <item>24. Stand up again, and reſt your Daggers.</item>
+                  <item>25. Caſt about your Daggers to the left ſide.</item>
+                  <item>26. Withdraw your Daggers.</item>
+                  <item>27. Put up your Daggers.</item>
+                  <item>28. Half-bend your Fire-locks.</item>
+                  <item>29. Blow your Pans.</item>
+                  <item>30. Handle your Primers.</item>
+                  <item>31. Prime.</item>
+                  <item>32. Shut your Pans.</item>
+                  <item>33. Caſt about to charge.</item>
+                  <item>34. Handle your Cartridges.</item>
+                  <item>35. Open your Cartridges.</item>
+                  <item>36. Charge your Cartridges.</item>
+                  <item>37. Draw forth your Scowrers.</item>
+                  <item>38. Hold them up.</item>
+                  <item>39. Shorten them to your Breaſts.</item>
+                  <item>40. Put them in the Barrels</item>
+                  <item>41. Ram down your Shot.</item>
+                  <pb n="7" facs="tcp:96185:4"/>
+                  <item>42. Withdraw your Scowrers.</item>
+                  <item>43. Hold them up.</item>
+                  <item>44. Shorten them to your Breaſts.</item>
+                  <item>45. Put them up in their places.</item>
+                  <item>46. Joyn your right hand to your Fire-locks.</item>
+                  <item>47. Poiſe your Fire-locks.</item>
+                  <item>48. Shoulder your Fire-locks.</item>
+                  <item>49. Reſt your Fire locks.</item>
+                  <item>50. Order your Fire-locks.</item>
+                  <item>51. Lay down your Fire-locks.</item>
+                  <item>52. Take up your Fire-locks.</item>
+                  <item>53. Reſt your Fire-locks.</item>
+                  <item>54. Club your Fire-locks.</item>
+                  <item>55. Reſt your Fire-locks.</item>
+                  <item>56. Shoulder your Fire-locks.</item>
+               </list>
+               <list>
+                  <head>Take heed you be ready to give fire by three Words of Command.</head>
+                  <item>57
+<list>
+                        <item>1. Make ready.</item>
+                        <item>2. Preſent.</item>
+                        <item>3. Give Fire.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Take heed ye be ready to fire your Grenades by three Words of Com<g ref="char:EOLhyphen"/>mand.</head>
+                  <item>58
+<list>
+                        <item>1. Make ready.</item>
+                        <item>2. Blow your Match.</item>
+                        <item>3. Fire, and deliver your Grenades.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Take heed ye be ready to uſe your Dag<g ref="char:EOLhyphen"/>gers by three Words of Command.</head>
+                  <item>59
+<list>
+                        <item>1. Make ready.</item>
+                        <item>2. Charge your Daggers, the Butt againſt the right Knee.</item>
+                        <item>3. Reſt your Daggers.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>Take heed to make your Fire-locks, ready again.</head>
+                  <item>60
+<list>
+                        <item>Make ready your Fire-locks.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:96185:5"/>
+               <head>Here follows the Manual of the Pike, beginning from the Advance.</head>
+               <p>THE Poſture of a Pike-man with his Pike advanced, muſt be the ſame as the Musketiers with a ſhoulder'd Musket, <hi>viz.</hi> that he ſtand ſtraight upon his Limbs, holding up his Head, looking briskly, wirh his Eye always turned towards the Commanding Officer, and making no other motions than the Commands do bear, that he keep his Feet a ſmall pace diſtant from each other, his Heels in a ſtraight Line, his Toes turn'd outwardly, and holding the Butt end of the Pike in his right hand, ſtretched downwards along his Body to the full length, ſo that the back of his hand be turn'd ſo much outwardly, as his Arm in ſuch poſture can ſuffer without conſtraint, and the Pike be kept cloſe as well to his ſhoulder as the outſide of his Thigh, that it may ſtand ſtraight upwards, without inclining to either hand, which Poſture muſt be always obſerved with an advanced Pike.</p>
+               <list>
+                  <item>1. Charge to the Front.</item>
+                  <item>2. As you were.</item>
+                  <item>3. Charge to the right.</item>
+                  <item>4. To the left, as you were.</item>
+                  <item>5. Charge to the left.</item>
+                  <item>6. To the right, as you were.</item>
+                  <item>7. To the right about charge.</item>
+                  <item>8. To the left, as you were.</item>
+                  <item>9. To the left about charge.</item>
+                  <item>10. To the right, as you were.</item>
+                  <item>11. Shoulder your Pikes.</item>
+                  <item>12. Charge to the Front.</item>
+                  <item>13. Shoulder as you were.</item>
+                  <item>14. Charge to the right.</item>
+                  <item>15. To the left, as you were.</item>
+                  <item>16. Charge to the left.</item>
+                  <item>17. To the right, as you were.</item>
+                  <item>18. To the right about charge.</item>
+                  <item>19. To the left, as you were.</item>
+                  <item>20. To the left about charge.</item>
+                  <item>21. To the right, as you were.</item>
+                  <item>22. Port your Pikes.</item>
+                  <item>23. Charge to the Front.</item>
+                  <item>24. Trail your Pikes the Spear be<g ref="char:EOLhyphen"/>hind.</item>
+                  <item>25. Charge, as you were.</item>
+                  <item>26. Puſh your Pikes.</item>
+                  <item>27. Trail your Pikes the Spear be<g ref="char:EOLhyphen"/>fore.</item>
+                  <item>28. Preſent your Spears.</item>
+                  <item>29. Charge to the Front.</item>
+                  <item>30. Advance your Pikes.</item>
+                  <item>31. Order your Pikes.</item>
+                  <item>32. Lay down your Pikes.</item>
+                  <item>33. Take up your Pikes.</item>
+                  <item>34. Plant your Pikes.</item>
+                  <item>35. Order your Pikes.</item>
+                  <item>36. Advance your Pikes.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:96185:5"/>
+               <head>Here follow the Evolutions. General Words of Command.</head>
+               <p n="1">1. Take heed.</p>
+               <p>AT the pronouncing of this Word, there muſt be great Silence obſerved throughout the whole Battalion, the Souldiers do<g ref="char:EOLhyphen"/>ing no motions neither with their Heads, Bodies, Hands or Feet; but ſuch as ſhall be ordered, and looking ſtedfaſtly to the command<g ref="char:EOLhyphen"/>ing Officer, as hath been ſaid above concerning the Manual.</p>
+               <p n="2">2. Carry well your Arms.</p>
+               <p n="3">3. Dreſs your Ranks and your Files.</p>
+               <list>
+                  <head>Evolutions with Muskets and Pikes together.</head>
+                  <item>1. Preſent your Arms.</item>
+                  <item>2.
+<list>
+                        <item>1. To the right.</item>
+                        <item>2. To the right.</item>
+                        <item>3. To the right.</item>
+                        <item>4. To the right.</item>
+                     </list>
+                  </item>
+                  <item>3. To the right about.</item>
+                  <item>4. To the left, as you were.</item>
+                  <item>5.
+<list>
+                        <item>1. To the left.</item>
+                        <item>2. To the left.</item>
+                        <item>3. To the left.</item>
+                        <item>4. To the left.</item>
+                     </list>
+                  </item>
+                  <item>6. To the left about.</item>
+                  <item>7. To the right, as you were.</item>
+                  <item>8. Poyſe your Muskets, and ad<g ref="char:EOLhyphen"/>vance your Pikes.</item>
+                  <item>9. Shoulder your Muskets.</item>
+               </list>
+               <list>
+                  <head>Take heed to double your Ranks to the Front.</head>
+                  <item>10. To the right, double our Ranks to the Front.</item>
+                  <item>11. March.</item>
+               </list>
+               <p>HEre it muſt be obſerved, as alſo by all other Marches, that all the Souldiers of the ſame Rank make the firſt ſtep with the left foot, lifting all at the ſame time, to the end that marching ſoftly, looking continually to the ſides, more eſpecially to the right, they may keep the Rank ſtraight, and come upon their places all together, ſtepping, ſo that with four paces they may enter the Rank that is be<g ref="char:EOLhyphen"/>fore them, having ſpecial care to carry their Arms well, hold up their
+<pb n="10" facs="tcp:96185:6"/>Head, keep their Bodies in a ſtraight and unconſtrained poſture, and look briskly.</p>
+               <list>
+                  <item>12. To the leſt, as you were.</item>
+                  <item>13. March.</item>
+                  <item>14. Halt.</item>
+                  <item>15. To the left, double your Ranks to the Front.</item>
+                  <item>16. March.</item>
+                  <item>17. To the right, as you were.</item>
+                  <item>18. March.</item>
+                  <item>19. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed to double your Ranks to the Rear.</head>
+                  <item>20. To the right about, double your Ranks to the Rear.</item>
+                  <item>21. March.</item>
+                  <item>22. Halt.</item>
+                  <item>23. As you were.</item>
+                  <item>24. March.</item>
+                  <item>25. To the left about, double your Ranks to the Rear.</item>
+                  <item>26. March.</item>
+                  <item>27. Halt.</item>
+                  <item>28. As you were.</item>
+                  <item>29. March.</item>
+               </list>
+               <list>
+                  <head>Take heed by half Files to double your Ranks to the Front.</head>
+                  <item>30. To the right, by half Files dou<g ref="char:EOLhyphen"/>ble your Ranks to the Front.</item>
+                  <item>31. March.</item>
+                  <item>32. To the left, as you were.</item>
+                  <item>33. March.</item>
+                  <item>34. Halt.</item>
+                  <item>35. To the left by half Files, dou<g ref="char:EOLhyphen"/>ble your Ranks to the Front.</item>
+                  <item>36. March.</item>
+                  <item>37. To the right, as you were.</item>
+                  <item>38. March.</item>
+                  <item>39. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed by half Files to double your Ranks to the Rear.</head>
+                  <item>40. To the right about by half Files double your Ranks to the Rear.</item>
+                  <item>41. March.</item>
+                  <item>42. Halt.</item>
+                  <item>43. As you were.</item>
+                  <item>44. March.</item>
+                  <item>45. To the left about by half Files double your Ranks to the Rear.</item>
+                  <item>46. March.</item>
+                  <item>47. Halt.</item>
+                  <item>48. As you were.</item>
+                  <item>49. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed to double your Files.</head>
+                  <item>50. To the right double your Files.</item>
+                  <item>51. March.</item>
+                  <item>52. Halt.</item>
+                  <item>53. To the left, as you were.</item>
+                  <item>54. March.</item>
+                  <item>55. To the left, double your Files.</item>
+                  <item>56. March.</item>
+                  <item>57. Halt.</item>
+                  <item>58. To the right. as you were.</item>
+                  <item>59. March.</item>
+               </list>
+               <pb n="11" facs="tcp:96185:6"/>
+               <list>
+                  <head>Take heed to double your Files by half Ranks.</head>
+                  <item>60. By half Ranks to the right, double your Files.</item>
+                  <item>61. March.</item>
+                  <item>62. Halt.</item>
+                  <item>63. To the left as you were.</item>
+                  <item>64. March.</item>
+                  <item>65. Halt.</item>
+                  <item>66. By half Ranks to the left dou<g ref="char:EOLhyphen"/>ble your Files.</item>
+                  <item>67. March.</item>
+                  <item>68. Halt.</item>
+                  <item>69. To the right, as you were.</item>
+                  <item>70. March.</item>
+                  <item>71. Halt.</item>
+               </list>
+               <p>Every Diviſion muſt double its Files in it ſelf, and the odd File muſt ſtand on its ground.</p>
+               <list>
+                  <head>Take heed to contre-march by Files.</head>
+                  <item>72. By Files to the right about, con<g ref="char:EOLhyphen"/>tre-march.</item>
+                  <item>73. March.</item>
+                  <item>74. By Files to the left about, con<g ref="char:EOLhyphen"/>tre-march.</item>
+                  <item>75. March.</item>
+               </list>
+               <list>
+                  <head>Take heed to contre-march by Ranks.</head>
+                  <item>76. By Ranks to the right, contre-march.</item>
+                  <item>77. March.</item>
+                  <item>78. Halt.</item>
+                  <item>79. By Ranks to the left, contre-march.</item>
+                  <item>80. March.</item>
+                  <item>81. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed to cloſe your Files.</head>
+                  <item>82. From the right and left, cloſe your Files to the Center.</item>
+                  <item>83. March.</item>
+                  <item>84. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed to cloſe your Ranks.</head>
+                  <item>85. Cloſe your Ranks to the Front.</item>
+                  <item>86. March.</item>
+               </list>
+               <list>
+                  <head>Take heed to wheel.</head>
+                  <item>87. Wheel to the right.</item>
+                  <item>88. March.</item>
+                  <item>89. Halt.</item>
+                  <item>90. Wheel to the right.</item>
+                  <item>91. March.</item>
+                  <item>92. Halt.</item>
+                  <item>93. To the right about, wheel.</item>
+                  <item>94. March.</item>
+                  <item>95. Halt.</item>
+                  <item>96. Wheel to the left.</item>
+                  <item>97. March.</item>
+                  <item>98. Halt.</item>
+                  <item>99. Wheel to the left.</item>
+                  <item>100. March.</item>
+                  <item>101. Halt.</item>
+                  <item>102. To the left about, wheel.</item>
+                  <item>103. March.</item>
+                  <item>104. Halt.</item>
+               </list>
+               <pb n="12" facs="tcp:96185:7"/>
+               <list>
+                  <head>Take heed to put your Ranks and Files at their former diſtance.</head>
+                  <item>105. Files to the right and left, take your former diſtances.</item>
+                  <item>106. March.</item>
+                  <item>107. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed to put your Ranks at the former diſtance.</head>
+                  <item>108. Ranks, as you were.</item>
+                  <item>109. March.</item>
+                  <item>110. Halt.</item>
+               </list>
+               <list>
+                  <head>Take heed to lay down your Arms.</head>
+                  <item>111. Reſt your Muskets.</item>
+                  <item>112. Order your Arms.</item>
+                  <item>113. Lay down your Arms.</item>
+               </list>
+               <list>
+                  <head>Take heed to quit your Arms.</head>
+                  <item>114. For Straw.</item>
+                  <item>115. March.</item>
+                  <item>116. To your Arms.</item>
+                  <item>117. Put up your Swords.</item>
+                  <item>118. Take up your Arms.</item>
+                  <item>119. Reſt your Muskets.</item>
+                  <item>120. Poyſe your Muskets, and ad<g ref="char:EOLhyphen"/>vance your Pikes.</item>
+                  <item>121. Shoulder your Muskets.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96185:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
